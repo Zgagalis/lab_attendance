@@ -1,0 +1,8 @@
+---
+title: "Lab Attendance"
+author: Zoe Gagalis
+format: html
+editor: visual
+---
+
+##in class today we learned how to create a repo using R and submit assignments the proper way by using a pull request
